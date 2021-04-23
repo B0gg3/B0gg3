@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @B0gg3 -- Real name Mats Lundager
-- 👀 I’m interested in Cybersecurity, bioinformatics and iot devices. Honestly I enjoy most tech subjects.
+- 👀 I’m interested in cybersecurity, bioinformatics and iot devices. Honestly I enjoy most tech subjects.
 - 🌱 I’m currently studying computer science.
 - 📫 How to reach me Mail -- mats_06_20@hotmail.com
 
